@@ -1,8 +1,16 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import Lastnav from './Lastnav'
+import { Context } from './Contexts/Context'
 
 const Innernav = () => {
+
+  const[a,setA]= useContext(Context);
+
   return (
-    <div>Innernav</div>
+    <div>
+       <Lastnav></Lastnav>
+       <h4>Inner Navbar-{a}</h4>
+    </div>
   )
 }
 

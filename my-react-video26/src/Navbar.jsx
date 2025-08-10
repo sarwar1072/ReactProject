@@ -1,12 +1,12 @@
 import React from 'react'
-import Lastnav from './Lastnav'
+import Innernav from './Innernav'
 
 const Navbar = () => {
     
   return (
 
     <div>
-        <Lastnav></Lastnav>
+        <Innernav></Innernav>
     </div>
   )
 }

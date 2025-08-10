@@ -5,7 +5,9 @@ const Lastnav = () => {
     const [a,setA]=useContext(Context);
 
   return (
-    <div>Lastnav -{a}</div>
+    <div>
+      <h4>Lastnav -{a}</h4>
+    </div>
   )
 }
 

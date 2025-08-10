@@ -4,16 +4,17 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import { Context } from './Contexts/Context'
 import Navbar from './Navbar'
-
+import { Context1Provider } from './Contexts/Context'
 
 function App() {
- const [a,setA]=useState("Hellow World");
+
+
   return (
    <div>
-       <Context.Provider value={[a,setA]}>
+       <Context1Provider >
           <Navbar></Navbar>
           <button>Count-</button>
-       </Context.Provider>
+       </Context1Provider>
    </div>
   )
 }
