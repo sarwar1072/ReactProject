@@ -1,0 +1,12 @@
+.navbarCss{
+     background-color: rgb(211, 211, 223);
+     margin: 10px;
+     padding: 20px;
+}
+div a{
+    margin: 3px;
+    text-decoration: none;
+         font-weight: bold;
+     font-family:  'Arial Narrow';
+
+}

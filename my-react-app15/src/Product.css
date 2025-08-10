@@ -1,0 +1,11 @@
+.singleuserdata{
+    border: 1px solid red;
+    border-radius: 10px;
+    background-color: chocolate;
+    padding: 5px;
+}
+.cartBtn{
+    color: black;
+    padding: 8px;
+    margin: 4px;
+}
