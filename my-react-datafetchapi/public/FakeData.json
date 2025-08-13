@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Aarav Khan",
+    "email": "aarav.khan@example.com",
+    "age": 28,
+    "address": {
+      "street": "House 12, Road 5",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "postalCode": "1207"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Maya Rahman",
+    "email": "maya.rahman@example.com",
+    "age": 32,
+    "address": {
+      "street": "Flat 4B, Lake View Tower",
+      "city": "Chittagong",
+      "country": "Bangladesh",
+      "postalCode": "4000"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hasan",
+    "email": "tanvir.hasan@example.com",
+    "age": 25,
+    "address": {
+      "street": "21 Green Road",
+      "city": "Sylhet",
+      "country": "Bangladesh",
+      "postalCode": "3100"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sadia Akter",
+    "email": "sadia.akter@example.com",
+    "age": 29,
+    "address": {
+      "street": "Bashundhara Block B",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "postalCode": "1229"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Imran Hossain",
+    "email": "imran.hossain@example.com",
+    "age": 35,
+    "address": {
+      "street": "45 North Road",
+      "city": "Khulna",
+      "country": "Bangladesh",
+      "postalCode": "9100"
+    }
+  }
+]
